@@ -74,7 +74,7 @@ public class Main {
         System.out.println();
 
         // kwalifikowana
-        System.out.println("============ KOMPOZYCJA ============ ");
+        System.out.println("============ KWALIFIKOWANA ============ ");
         CryptoExchange coinbase = new CryptoExchange("Coinbase");
         Wallet wallet1 = new Wallet("ltc1q6kaw69d4zl9hvucsfctal4a9x2mls30rx77dnw");
         Wallet wallet2 = new Wallet("ltc1qcx93kqq7q7k8fkgdn3mq0mqm0cj0uxjszleya5");
